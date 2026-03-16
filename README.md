@@ -1,6 +1,6 @@
 \# Spam Email Classifier
 
-
+### LIVE DEMO : https://codectechnologiesspam-email-classifier-gviumnssxnwdwahrfqmhqi.streamlit.app/
 
 A simple Machine Learning project that classifies emails as \*\*Spam\*\* or \*\*Not Spam (Ham)\*\* using Python and Scikit-Learn.
 
